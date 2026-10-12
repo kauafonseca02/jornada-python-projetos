@@ -1,28 +1,31 @@
 # Jornada Python — Projetos Práticos
 
-Repositório com quatro projetos desenvolvidos durante a Jornada Python da Hashtag Treinamentos, com foco na aplicação prática de programação para automação, análise de dados e desenvolvimento de sistemas.
+Repositório com quatro projetos desenvolvidos durante a Jornada Python da Hashtag Treinamentos, aplicando Python na automação de tarefas, análise de dados, desenvolvimento de chatbot e visualização de informações.
 
 ## Projetos desenvolvidos
 
 ### Dia 1 — Automação de cadastro de produtos
-Automatização do processo de cadastro de produtos em um site existente, aplicando conceitos de automação com Python(pyautogui).
+Automatização do cadastro de produtos em um site existente, utilizando Python e a biblioteca PyAutoGUI para interagir com a interface.
 
 ### Dia 2 — Análise de cancelamento de clientes
-Tratamento e análise de dados relacionados ao cancelamento de planos por clientes, buscando identificar padrões e informações relevantes.
+Tratamento e análise de dados relacionados ao cancelamento de planos por clientes, buscando identificar padrões e extrair informações relevantes.
 
 ### Dia 3 — Chatbot
-Desenvolvimento de um chatbot para automatizar interações com usuários.
+Desenvolvimento de um chatbot para automatizar interações e responder às solicitações dos usuários.
 
 ### Dia 4 — Sistema de vendas e dashboards
-Desenvolvimento de um sistema para cadastro e visualização de vendas, com dashboards para facilitar o acompanhamento dos dados.
+Desenvolvimento de um sistema de cadastro e visualização de vendas, com dashboards para facilitar a análise e o acompanhamento dos resultados.
 
 ## Objetivo
 
-Consolidar conhecimentos em Python por meio de projetos práticos, desenvolvendo habilidades de lógica de programação, automação, tratamento de dados e construção de soluções computacionais.
+Aplicar na prática os conhecimentos adquiridos em Python, desenvolvendo habilidades de lógica de programação, automação de processos, análise de dados e construção de sistemas.
 
 ## Tecnologias
 
-Python e ferramentas utilizadas durante a Jornada Python.
+- Python
+- PyAutoGUI (projeto do Dia 1)
+
+*Outras tecnologias serão adicionadas conforme forem identificadas nos projetos.*
 
 ---
 
