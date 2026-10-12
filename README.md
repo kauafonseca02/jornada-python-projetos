@@ -26,7 +26,24 @@ Aplicar na prática os conhecimentos adquiridos em Python, desenvolvendo habilid
 - **Python:** linguagem de programação.
 - **PyAutoGUI:** automação de cliques, teclas e preenchimento de campos.
 - **Pandas:** manipulação e consulta da base de dados de produtos.
-- **Time:** pausas entre as etapas da automação.
+- **Time:** controle de pausas entre as etapas da automação.
+
+### Dia 2 — Análise de cancelamento de clientes
+- **Python:** análise e tratamento dos dados.
+- **Pandas:** manipulação da base de dados em CSV.
+- **Plotly:** criação de gráficos para análise e visualização dos dados.
+- **Jupyter Notebook:** execução e análise do código em blocos no VS Code.
+
+### Dia 3 — Chatbot com Inteligência Artificial
+- **Python:** desenvolvimento da lógica do chatbot.
+- **Visual Studio Code (VS Code):** ambiente de desenvolvimento.
+- **Inteligência Artificial:** geração de respostas às mensagens dos usuários.
+
+### Dia 4 — Sistema de vendas e dashboards
+- **Python:** desenvolvimento da lógica do sistema.
+- **Streamlit:** criação da interface web e dos formulários.
+- **Pandas:** organização e manipulação dos dados de vendas.
+- **Plotly:** criação de gráficos e visualizações para o dashboard.
 
 ---
 
