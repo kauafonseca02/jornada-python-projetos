@@ -22,10 +22,10 @@ Aplicar na prática os conhecimentos adquiridos em Python, desenvolvendo habilid
 
 ## Tecnologias
 
-- Python
-- PyAutoGUI (projeto do Dia 1)
-
-*Outras tecnologias serão adicionadas conforme forem identificadas nos projetos.*
+- **Python:** linguagem utilizada no desenvolvimento dos projetos.
+- **PyAutoGUI:** automação de interações com interfaces gráficas.
+- **Pandas:** manipulação e consulta de dados tabulares.
+- **Time:** controle de pausas entre as etapas da automação no projeto do Dia 1.
 
 ---
 
