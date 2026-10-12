@@ -20,12 +20,13 @@ Desenvolvimento de um sistema de cadastro e visualização de vendas, com dashbo
 
 Aplicar na prática os conhecimentos adquiridos em Python, desenvolvendo habilidades de lógica de programação, automação de processos, análise de dados e construção de sistemas.
 
-## Tecnologias
+## Tecnologias identificadas
 
-- **Python:** linguagem utilizada no desenvolvimento dos projetos.
-- **PyAutoGUI:** automação de interações com interfaces gráficas.
-- **Pandas:** manipulação e consulta de dados tabulares.
-- **Time:** controle de pausas entre as etapas da automação no projeto do Dia 1.
+### Dia 1 — Automação de cadastro de produtos
+- **Python:** linguagem de programação.
+- **PyAutoGUI:** automação de cliques, teclas e preenchimento de campos.
+- **Pandas:** manipulação e consulta da base de dados de produtos.
+- **Time:** pausas entre as etapas da automação.
 
 ---
 
