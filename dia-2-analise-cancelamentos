@@ -1,0 +1,31 @@
+# Dia 2 — Análise de Cancelamento de Clientes
+
+Projeto desenvolvido durante a Jornada Python da Hashtag Treinamentos.
+
+## Objetivo
+
+Analisar dados de clientes para identificar padrões associados ao cancelamento de serviços e explorar possíveis ações para melhorar a retenção.
+
+## Tecnologias
+
+- Python
+- Pandas
+- Plotly
+- Jupyter Notebook
+
+## Etapas da análise
+
+- Importação e visualização dos dados.
+- Tratamento de valores ausentes.
+- Cálculo da quantidade e porcentagem de cancelamentos.
+- Visualização dos dados por meio de histogramas.
+- Aplicação de filtros para explorar possíveis padrões de cancelamento.
+
+## Arquivos
+
+- `inicial.ipynb`: notebook com o código e as etapas da análise.
+- `cancelamentos.csv`: base de dados utilizada no projeto, se apropriada para publicação.
+
+## Observação
+
+Projeto educacional desenvolvido para praticar análise e visualização de dados com Python.
